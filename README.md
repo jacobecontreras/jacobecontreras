@@ -11,7 +11,7 @@
 
 <p align="center">
   📖 CSCI senior @ California State University, Chico.<br>
-  🔍 Building data-extraction tooling: <code>suiteDFIR</code>, <code>photoGrep</code>, <code>leappAgent</code>, <code>readOnlySqlViewer</code>.<br>
+  🔍 Building data-extraction tooling: <code>suiteDFIR</code>, <code>photoGrep</code>, <code>leappAgent</code>.<br>
   💡 Open to collaborating on projects and innovative ideas.
 </p>
 
@@ -28,7 +28,6 @@
 | [**suiteDFIR**](https://github.com/jacobecontreras/suiteDFIR) | ![stars](https://img.shields.io/github/stars/jacobecontreras/suiteDFIR?label=stars&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react) ![Electron](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi) |
 | [**photoGrep**](https://github.com/jacobecontreras/photoGrep) | ![stars](https://img.shields.io/github/stars/jacobecontreras/photoGrep?label=stars&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch) ![OpenCLIP](https://img.shields.io/badge/-OpenCLIP-000?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-000?style=flat-square&logo=meta) |
 | [**leappAgent**](https://github.com/jacobecontreras/leappAgent) | ![stars](https://img.shields.io/github/stars/jacobecontreras/leappAgent?label=stars&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python) ![Electron](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron) ![RAG](https://img.shields.io/badge/-RAG-000?style=flat-square) ![ReAct](https://img.shields.io/badge/-ReAct-000?style=flat-square) |
-| [**readOnlySqlViewer**](https://github.com/jacobecontreras/readOnlySqlViewer) | ![stars](https://img.shields.io/github/stars/jacobecontreras/readOnlySqlViewer?label=stars&style=flat-square) | ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript) ![sql.js](https://img.shields.io/badge/-sql.js-000?style=flat-square&logo=sqlite) ![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite) |
 
 </div>
 
