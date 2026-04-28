@@ -11,7 +11,7 @@
 
 <p align="center">
   📖 CSCI senior @ California State University, Chico.<br>
-  🔍 Building data-extraction tooling: <code>suiteDFIR</code>, <code>photoGrep</code>, <code>leappAgent</code>.<br>
+  🔍 Building data-extraction tooling: <code>suiteDFIR</code>, <code>photoGrep</code>, <code>leappAgent</code>, <code>readOnlySqlViewer</code>.<br>
   💡 Open to collaborating on projects and innovative ideas.
 </p>
 
